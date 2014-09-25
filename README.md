@@ -1,5 +1,13 @@
 <html><body><p>
-Coming Soon...<br/>
+Description of Application is found at following link:
+
+https://www.dropbox.com/s/1b0qjgt1f3javqp/Code%20%285%29.pdf?dl=0
+
+Check out the project code at the following given url:
+
+https://www.dropbox.com/sh/1457nnu3mmaxsok/AACEjop76p8xFgAOprS5HqIwa?dl=0
+
+Thanks<br/>
 The main idea behind this application development is information , that we all know that information is of how much importance in this digital world.</p></br>
 So i have tried to develop a application which can track as well as provide a secure way to store day by day activities.
 There is also a few more reasons to develop this application because in this fast paced life everyone is worried about their family members and always try to know that what they are doing , where are they .
